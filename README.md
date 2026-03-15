@@ -28,5 +28,11 @@ https://github.com/jawadgit23/business-landing-page
 - JavaScript (ES6, DOM)
 
 ## Project Structure
-
+business-landing-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── images/
 
