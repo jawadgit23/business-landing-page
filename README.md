@@ -1,9 +1,8 @@
-Modern responsive business landing page built with HTML, CSS, and JavaScript.
+Business Landing Website — Live Project
+• Built using HTML, CSS, JavaScript
+• Fully responsive design
+• Implemented scroll animations and UI effects
+• Deployed using Netlify
 
-Features:
-Responsive design
-Scroll animations
-Contact form UI
-Clean modern layout
-Mobile friendly
-Deployed live
+Live: https://jawad23-portfolio.netlify.app/
+Code: https://github.com/jawadgit23/
