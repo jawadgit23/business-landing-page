@@ -36,3 +36,9 @@ business-landing-page/
 └── assets/
 └── images/
 
+## Screenshots
+
+### Desktop View
+![Desktop](Desktop1.jpg)
+
+
