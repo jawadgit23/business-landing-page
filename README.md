@@ -29,10 +29,10 @@ https://github.com/jawadgit23/business-landing-page
 
 ## Project Structure
 business-landing-page/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── images/
+-│
+-├── index.html
+-├── style.css
+-├── script.js
+-└── assets/
+-└── images/
 
