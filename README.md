@@ -40,5 +40,7 @@ business-landing-page/
 
 ### Desktop View
 ![Desktop](Desktop1.jpg)
+![Desktop](Desktop2.jpg)
+![Desktop](Desktop3.jpg)
 
 
